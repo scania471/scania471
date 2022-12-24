@@ -1,6 +1,7 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc4n1a471&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc4n1a471&theme=default&show_icons=true&count_private=true&include_all_commits=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc4n1a471&langs_count=3)]()
 
 🌱 I’m currently learning SwiftUI
 
@@ -27,7 +28,7 @@
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
 <!--
