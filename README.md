@@ -1,6 +1,4 @@
 
-
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc4n1a471&theme=transparent&show_icons=true&count_private=true&include_all_commits=true)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc4n1a471&langs_count=4&hide=html,hack,php&theme=transparent&layout=compact)]()
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
